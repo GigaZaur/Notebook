@@ -214,7 +214,7 @@
 
 ------
 <div id='id-section1'/>
-### Page 1: 2016-09-09.  Andrew is teaching us how to create an online notebook. This is a great way to have reproduicble data
+### Page 1: 2016-09-09.  Andrew is teaching us how to create an online notebook. This is a great way to have reproduicble data. If I want to visit andrew's site, [click here](https://adnguyen.github.io/).
 
 
 ------

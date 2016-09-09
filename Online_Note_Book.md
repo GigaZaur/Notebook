@@ -221,6 +221,10 @@ Creating a link is done by using this sentax: [words](link)
 ```
 If I wanted to see more of Antdrew's face, I can by sharing a link to his [face](http://adnguyen.github.io/assets/2013_anbe_antcollecting.jpg)
 
+A great thing
+
+![](https://cloud.githubusercontent.com/assets/15384687/18391114/e42e6d9c-767a-11e6-918b-8261f5b8a4d2.jpeg)
+
 ------
 <div id='id-section2'/>
 ### Page 2: 2016-06-16 title 

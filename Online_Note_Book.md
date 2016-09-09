@@ -216,6 +216,10 @@
 <div id='id-section1'/>
 ### Page 1: 2016-09-09.  Andrew is teaching us how to create an online notebook. This is a great way to have reproduicble data. If I want to visit andrew's site, [click here](https://adnguyen.github.io/).
 
+```
+Creating a link is done by using this sentax: [words](link)
+```
+If I wanted to see more of Antdrew's face, I can by sharing a link to his [face](http://adnguyen.github.io/assets/2013_anbe_antcollecting.jpg)
 
 ------
 <div id='id-section2'/>
